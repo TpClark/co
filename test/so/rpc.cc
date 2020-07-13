@@ -1,4 +1,4 @@
-#include "__/rpc/hello_world.h"
+#include "../__/rpc/hello_world.h"
 #include "co/flag.h"
 #include "co/log.h"
 #include "co/co.h"
